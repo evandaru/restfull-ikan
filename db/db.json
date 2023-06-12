@@ -1,19 +1,39 @@
 {
-    "posts": [
+    "ikan": [
         {
-            "id": 1,
-            "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-            "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+            "id": "i001",
+            "nama": "Ikan Gurame",
+            "jenis": "Air Tawar",
+            "harga": 35000,
+            "deskripsi": "Ikan Gurame adalah ikan air tawar yang populer untuk dikonsumsi di Indonesia. Ikan ini memiliki daging yang lezat dan tebal."
         },
         {
-            "id": 2,
-            "title": "qui est esse",
-            "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+            "id": "i002",
+            "nama": "Ikan Tuna",
+            "jenis": "Laut",
+            "harga": 60000,
+            "deskripsi": "Ikan Tuna adalah ikan laut yang terkenal dengan dagingnya yang merah dan kaya akan omega-3. Ikan ini sering digunakan untuk sushi dan sashimi."
         },
         {
-            "id": 3,
-            "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-            "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+            "id": "i003",
+            "nama": "Ikan Kakap Merah",
+            "jenis": "Laut",
+            "harga": 45000,
+            "deskripsi": "Ikan Kakap Merah adalah ikan laut yang memiliki daging putih yang lembut dan rasa yang enak. Cocok untuk digoreng atau dikukus."
+        },
+        {
+            "id": "i004",
+            "nama": "Ikan Lele",
+            "jenis": "Air Tawar",
+            "harga": 20000,
+            "deskripsi": "Ikan Lele adalah ikan air tawar yang sering dikonsumsi di Indonesia. Dagingnya lezat dan memiliki tekstur yang kenyal."
+        },
+        {
+            "id": "i005",
+            "nama": "Ikan Salmon",
+            "jenis": "Laut",
+            "harga": 80000,
+            "deskripsi": "Ikan Salmon adalah ikan laut yang terkenal dengan dagingnya yang oranye dan lezat. Kaya akan omega-3 dan sering digunakan dalam hidangan mewah."
         }
     ]
 }
